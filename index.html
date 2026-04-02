@@ -8,27 +8,42 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="output.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
   <title>Frontend Mentor | Huddle landing page with single introductory section</title>
 </head>
 
-<body class="bg-primary">
-  <main class="bg-primary">
-    <header><img src="" alt=""></header>
+<body class="bg-primary h-screen flex flex-col px-9 py-10 font-secondary text-white bg-[url('./images/bg-mobile.svg')] md:bg-[url('./images/bg-desktop.svg')] bg-no-repeat bg-cover md:px-16 md:py-16">
+  <header class="flex justify-start mb-16">
+    <img src="images/logo.svg" alt="Huddle Logo" class="w-30 md:w-50">
+  </header>
+  <main class="flex-1 grid justify-items-center text-center md:grid-cols-2 md:gap-14 md:text-start md:items-center">
+    <img src="images/illustration-mockups.svg" alt="a desktop and a mobile screen showing a mockup of the site" class="mb-14">
 
-    <h1 class="">Build The Community Your Fans Will Love</h1>
-
-    <p>
-      Huddle re-imagines the way we build communities. You have a voice, but so does your audience.
-      Create connections with your users as you engage in genuine discussion.
-    </p>
-
-    <button>Register</button>
+    <section>
+      <h1 class="text-2xl font-primary font-semibold mb-6 md:text-[40px] md:max-w-130">Build The Community Your Fans Will Love</h1>
+      <p class="text-base mb-8 md:max-w-120 md:mb-10 tracking-wide">
+        Huddle re-imagines the way we build communities. You have a voice, but so does your audience.
+        Create connections with your users as you engage in genuine discussion.
+      </p>
+      <button class="bg-white py-2.75 rounded-[20px] text-primary mb-15.5 w-50 text-xs font-primary cursor-pointer hover:bg-secondary hover:text-white ease-in duration-75 md:text-lg md:py-3.5 shadow-md md:rounded-[28px]">Register</button>
+    </section>
+    <article class="flex gap-4 justify-center md:col-start-2 md:self-end md:justify-self-end mb-10">
+      <div class="w-8 h-8 flex items-center justify-center rounded-full border border-white cursor-pointer ease-in duration-75 hover:text-pink hover:border-pink md:w-10 md:h-10 md:text-xl">
+        <i class="fa-brands fa-facebook-f"></i>
+      </div>
+      <div class="w-8 h-8 flex items-center justify-center rounded-full border border-white hover:text-pink hover:border-pink cursor-pointer ease-in duration-75 md:w-10 md:h-10 md:text-xl">
+        <i class="fa-brands fa-twitter"></i>
+      </div>
+      <div class="w-8 h-8 flex items-center justify-center rounded-full border border-white hover:text-pink hover:border-pink cursor-pointer ease-in duration-75 md:w-10 md:h-10 md:text-xl">
+        <i class="fa-brands fa-instagram"></i>
+      </div>
+    </article>
   </main>
 
-  <footer class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
-    Coded by <a href="#">Your Name Here</a>.
+  <footer class="text-center text-xs font-primary">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" class="font-bold">Frontend Mentor</a>.
+    Coded by <a href="https://github.com/gustavogularte" class="font-bold">Gustavo Arend</a>.
   </footer>
 </body>
 
