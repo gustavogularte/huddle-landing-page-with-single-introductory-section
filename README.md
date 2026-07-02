@@ -63,6 +63,6 @@ Durante o desenvolvimento, também pude aprender e praticar os fundamentos do **
 # 🔗 Links
 
 - 🚀 **Deploy:** https://gustavogularte.github.io/huddle-landing-page-with-single-introductory-section/
-- 🎨 **Desafio no Frontend Mentor:** https://www.frontendmentor.io/challenges
+- 🎨 **Desafio no Frontend Mentor:** https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 - 👤 **Meu perfil no Frontend Mentor:** https://www.frontendmentor.io/profile/gustavogularte
 - 💼 **LinkedIn:** https://www.linkedin.com/in/gustavo-gularte-arend-58742a286/
