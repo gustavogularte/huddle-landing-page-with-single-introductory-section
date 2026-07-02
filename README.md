@@ -1,44 +1,68 @@
-# 🚀 Huddle Landing Page
+<h1 align="center">💬 Huddle Landing Page - Frontend Mentor</h1>
 
-![Project preview](/assets/preview.jpg)
+<p align="center">
+  Projeto desenvolvido a partir de um desafio da plataforma <strong>Frontend Mentor</strong>.
+</p>
 
-## 🧾 About the project
+<p align="center">
+  <img src="./assets/preview.jpg" alt="Preview do projeto" width="900"/>
+</p>
 
-This project is a landing page built from a Frontend Mentor challenge. The goal was to accurately recreate the provided design, ensuring a modern, responsive interface that stays visually consistent with the original layout.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
+</p>
 
-## 🎯 Objective
+---
 
-The main objective of this project was to **practice front-end development** and, especially, to take the first steps with **Tailwind CSS**.
+# 📖 Sobre
 
-Focus areas included:
+Este projeto foi desenvolvido a partir de um desafio do **Frontend Mentor**, plataforma que disponibiliza designs reais para que desenvolvedores Front-end pratiquem a implementação de interfaces modernas e responsivas.
 
-- Learning the _utility-first_ approach of Tailwind
-- Improving responsive layout building
-- Working with interactive states (hover)
-- Writing more organized and scalable code
+O objetivo deste desafio foi reproduzir fielmente o layout proposto, colocando em prática conceitos de responsividade, organização do código e estilização utilizando **Tailwind CSS**.
 
-## 🛠️ Technologies used
+Além de consolidar conhecimentos em HTML e CSS, este projeto marcou meu primeiro contato prático com a abordagem **Utility-First** do Tailwind CSS.
 
-- HTML5
-- CSS3
-- Tailwind CSS
+---
 
-## 📱 Features
+# 🚀 Conteúdos praticados
 
-- Responsive layout for different screen sizes
-- Hover states for interactive elements
-- Structure based on front-end best practices
+- ✅ HTML5 Semântico
+- ✅ CSS3
+- ✅ Tailwind CSS
+- ✅ Utility-First CSS
+- ✅ Flexbox
+- ✅ Responsividade
+- ✅ Hover States
+- ✅ Organização de componentes
+- ✅ Boas práticas de desenvolvimento Front-end
 
-## 📚 What I learned
+---
 
-During the development of this project, I:
+# 🛠 Tecnologias
 
-- Had my first practical experience with Tailwind CSS
-- Improved how I organize styles using utility classes
-- Enhanced my responsive design skills
-- Gained more confidence building real-world interfaces
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
-## 🌐 My Frontend Mentor profile
+---
 
-Want to see more projects and challenges I’ve worked on? Check out my profile:  
-👉 https://www.frontendmentor.io/profile/gustavogularte
+# 🎯 Objetivo
+
+Este projeto teve como objetivo aprimorar minhas habilidades em desenvolvimento Front-end através de um desafio do **Frontend Mentor**, reproduzindo um layout profissional com fidelidade ao design original.
+
+Durante o desenvolvimento, também pude aprender e praticar os fundamentos do **Tailwind CSS**, explorando sua abordagem baseada em classes utilitárias para construção de interfaces modernas e responsivas.
+
+---
+
+# 🔗 Links
+
+- 🚀 **Deploy:** https://SEU-LINK.netlify.app/
+- 🎨 **Desafio no Frontend Mentor:** https://www.frontendmentor.io/challenges
+- 👤 **Meu perfil no Frontend Mentor:** https://www.frontendmentor.io/profile/gustavogularte
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gustavo-gularte-arend-58742a286/
